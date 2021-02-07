@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'jkopsick@gmu.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jeffrey_kopsick
