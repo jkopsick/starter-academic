@@ -53,9 +53,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/jeffrey_kopsick_2021_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jkopsick@gmu.edu"
@@ -66,4 +66,4 @@ highlight_name: false
 
 Jeffrey Kopsick is a 3rd year PhD Student at George Mason University, working in the lab of Giorgio Ascoli. His research interests include the creation and simulation of data-driven spiking neural networks, and to use those networks to better understand how the hippocampus works at the level of individual cell types.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/jeffrey_kopsick_2021_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
